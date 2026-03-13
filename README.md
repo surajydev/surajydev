@@ -1,229 +1,331 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Suraj%20Yadav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descColor=a78bfa" width="100%"/>
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--              ANIMATED HEADER               -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=true&width=600&height=50&lines=Hey+there!+I'm+Suraj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Microservices+Architect+%E2%9A%99%EF%B8%8F;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Spring+Boot+%2B+React+Wizard+%E2%9C%A8;Open+to+Collabs+%26+Opportunities!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1040,60:302b63,100:6d28d9&height=280&section=header&text=SURAJ%20YADAV&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=42&stroke=a78bfa&strokeWidth=2" width="100%"/>
+
+<!-- BIG gap between name and profession -->
+<br/><br/>
+
+<!-- Glowing profession line -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;⚙️+Microservices+Architect;🎨+UI%2FUX+Designer;☁️+Cloud+%26+DevOps+Explorer;✨+Spring+Boot+%2B+React+Wizard" alt="profession" />
+
+<br/><br/>
+
+<!-- Animated greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1500&color=64ffda&center=true&vCenter=true&width=550&height=35&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+things+that+matter+%F0%9F%94%A5;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="greeting" />
+
+<br/><br/>
+
+<!-- Animated social badges -->
+<a href="https://www.linkedin.com/in/surajyadav/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="https://github.com/surajydev">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:surajyadav052005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=surajydev&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
 
-<br/>
+<br/><br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajyadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajydev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav052005@gmail.com)
-
-<br/>
-
-<!-- Profile views + followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=surajydev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br/>
 
-<!-- About Me section -->
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--                 ABOUT ME                   -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+<div>
+
+## 🧑‍💻 &nbsp;Who Am I?
 
 ```yaml
-name: Suraj Yadav
-location: Phagwara, Punjab, India
-university: Lovely Professional University
-degree: B.Tech Computer Science & Engineering
-cgpa: 8.60 / 10.0
+╔══════════════════════════════════════╗
+  name        : Suraj Yadav
+  location    : Phagwara, Punjab, India
+  university  : Lovely Professional University
+  degree      : B.Tech - CSE
+  cgpa        : 8.60 / 10.0 ⭐
+╚══════════════════════════════════════╝
 
-current_focus:
-  - 🔭 Building Microservices-based platforms
-  - 🎨 Crafting pixel-perfect UI/UX in Figma
-  - 🌱 Mastering Spring Boot & Cloud Architecture
-  - ⚡ Exploring Kafka, Docker & Redis
+🔭  Building  : Microservices FinTech platforms
+🎨  Designing : Pixel-perfect Figma prototypes
+🌱  Learning  : Spring Cloud & AWS Architecture
+⚡  Tinkering : Kafka · Docker · Redis · JWT
 
-passions:
-  - Clean Code Architecture
-  - Design Thinking
-  - Open Source Contribution
-  - Community-driven Tech
-
-fun_fact: >
-  I can turn a Figma wireframe into
-  a fully deployed microservice 🚀
+💡  Superpower: Figma wireframe → Live deployment
+🎯  Goal      : Ship products that solve real problems
 ```
+
+</div>
 
 <br clear="right"/>
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+<!-- animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--               TECH ARSENAL                 -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">🛠️ &nbsp;Tech Arsenal</h2>
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,c&theme=dark&perline=10" /><br/><br/>
 
-### 🚀 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,html,css&theme=dark&perline=10" /><br/><br/>
 
-### ⚙️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=docker,kafka,aws,redis,mysql,mongodb,figma,git&theme=dark&perline=10" /><br/><br/>
 
 </div>
 
----
+<!-- Animated skills marquee -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=400&color=64FFDA&center=true&vCenter=true&width=700&height=30&lines=Spring+Boot+%7C+Kafka+%7C+Redis+%7C+Docker+%7C+JWT+%7C+Eureka+%7C+API+Gateway+%7C+AWS+%7C+MongoDB+%7C+MySQL" />
+</div>
 
-## 🔥 Featured Projects
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--              FEATURED PROJECTS             -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">🔥 &nbsp;Featured Projects</h2>
 
 <div align="center">
-
-<a href="https://github.com/surajydev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajydev&repo=E-Commerce-Beauty-Products-&theme=tokyonight&border_color=7C3AED&border_radius=10" />
+<a href="https://github.com/surajydev/E-Commerce-Beauty-Products-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajydev&repo=E-Commerce-Beauty-Products-&theme=tokyonight&border_color=6d28d9&border_radius=12&show_owner=true" />
 </a>
+</div>
+
+<br/>
+
+<!-- Project cards -->
+<table align="center">
+<tr>
+<td width="50%">
+
+### 💳 PayPal Clone — FinTech Microservices
+> `Oct 2025 – Nov 2025`
+
+```
+🏗️  Modular microservices architecture
+⚡  Kafka + Redis → 15–20% faster txns
+🐳  Docker + Eureka service discovery
+🔐  JWT secured auth flows
+```
+`Spring Boot` `Kafka` `Redis` `Docker` `JWT`
+
+</td>
+<td width="50%">
+
+### 🎓 UniUnite — Campus Network
+> `Feb 2025 – Apr 2025`
+
+```
+🎨  Profile Module UI from scratch
+📐  Figma UX research → design
+🚀  Beta campus launch support
+📱  Responsive across all devices
+```
+`HTML` `CSS` `JS` `Figma` `UI/UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 Healthcare App — UX Prototype
+> `Oct 2024`
+
+```
+📉  -25% user confusion
+🔄  -30% booking interaction steps
+📱  +20% readability across screens
+🧪  Figma-first prototyping flow
+```
+`Figma` `Wireframing` `UX Research`
+
+</td>
+<td width="50%">
+
+### 🛍️ E-Commerce Beauty Platform
+> *Full-stack shopping experience*
+
+```
+🛒  Product browsing & cart
+💅  Beauty niche UX focus
+⚡  Performance-optimized UI
+🔗  Linked below ↓
+```
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajydev/E-Commerce-Beauty-Products-)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--               GITHUB STATS                 -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6d28d9&border_radius=12&hide_border=false"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajydev&layout=compact&langs_count=8&theme=tokyonight&border_color=6d28d9&border_radius=12"/>
 
 </div>
 
 <br/>
 
-### 💳 PayPal Clone — Microservices FinTech Platform
-> *Oct 2025 – Nov 2025*
-
-```
-🏗️  Architecture  →  Modular microservices (users, wallets, transactions, notifications)
-⚡  Performance   →  Kafka + Redis cut transaction delays by 15–20%
-🐳  DevOps        →  Docker + API Gateway + Eureka for service discovery
-🔐  Security      →  JWT-based authentication
-```
-**Stack:** `Spring Boot` `Kafka` `Redis` `Docker` `JWT` `API Gateway` `Eureka`
-
----
-
-### 🎓 UniUnite — Campus Networking Platform
-> *Feb 2025 – Apr 2025*
-
-```
-🎨  UI Design     →  Built Profile Module UI (bio, education, skills)
-📐  UX Research   →  Figma designs based on student needs analysis
-🚀  Launch        →  Supported beta campus rollout & usability testing
-```
-**Stack:** `HTML` `CSS` `JavaScript` `Figma` `UI/UX` `Font Awesome`
-
----
-
-### 🏥 Healthcare App — UI/UX Prototype
-> *Oct 2024*
-
-```
-📉  Impact        →  Reduced user confusion by 25% with cleaner navigation
-🔄  Flow Opt.     →  Booking steps reduced by ~30% through clearer transitions
-📱  Responsive    →  Improved readability across all screen sizes by ~20%
-```
-**Stack:** `Figma` `Wireframing` `Prototyping` `UX Research`
-
----
-
-### 🛍️ E-Commerce Beauty Products
-> *Full-stack beauty product shopping platform*
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajydev/E-Commerce-Beauty-Products-)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajydev&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajydev&theme=tokyonight&border=7C3AED&border_radius=10" alt="GitHub Streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=surajydev&theme=tokyonight&border=6d28d9&border_radius=12&fire=ff6b6b&ring=a78bfa&currStreakLabel=a78bfa"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajydev&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7C3AED&radius=10" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajydev&bg_color=1a1b27&color=a78bfa&line=6d28d9&point=64ffda&area=true&area_color=6d28d9&hide_border=false&border_color=6d28d9&radius=12" width="96%"/>
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--               TROPHIES                     -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">🏆 &nbsp;GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajydev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=surajydev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" width="96%"/>
 </div>
 
----
+<br/>
 
-## 📜 Certifications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| 🏅 Certificate | 🏫 Issuer | 📅 Year |
-|---|---|---|
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--             CERTIFICATIONS                 -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">📜 &nbsp;Certifications</h2>
+
+<div align="center">
+
+| 🏅 Certificate | 🏫 Issuer | 📅 |
+|:---|:---|:---:|
 | ChatGPT-4 Prompt Engineering: GenAI & LLM | Infosys | 2025 |
 | Software Engineering: Implementation & Testing | Coursera | 2024 |
 | Responsive Web Design | freeCodeCamp | 2023 |
 
----
+</div>
 
-## 🌟 Extra-Curricular
+<br/>
 
-- 🌱 **NGO Community Drives** — Led awareness & plantation activities with 50+ participants
-- 💻 **BinaryBlitz Hackathon** — Qualified for Round 2 among 20+ competing teams  
-- 🎯 **Student Coordinator** — Organized Inter Hostel Competition operations for 100+ students
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--            EXTRA-CURRICULAR                -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
----
+<h2 align="center">🌟 &nbsp;Beyond the Code</h2>
 
-## 🐍 Contribution Snake
+<div align="center">
+
+🌱 &nbsp;**NGO Community Drives** — Led awareness & plantation with **50+ participants**  
+💻 &nbsp;**BinaryBlitz Hackathon** — Cleared Round 2 among **20+ competing teams**  
+🎯 &nbsp;**Student Coordinator** — Managed Inter Hostel Competition for **100+ students**  
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--            CONTRIBUTION SNAKE              -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<h2 align="center">🐍 &nbsp;Contribution Snake</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%"/>
   </picture>
 </div>
 
----
+<br/>
 
-## 💬 Random Dev Quote
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--               DEV QUOTE                    -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
 </div>
 
----
+<br/>
 
-<div align="center">
-
-### 🤝 Let's Connect & Build Something Amazing!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surajyadav/)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav052005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/surajydev)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--               CONNECT CTA                  -->
+<!-- ╚══════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=🤝+Let's+Build+Something+Amazing!;📬+Always+Open+to+Collaborations!;💡+Got+an+Idea%3F+Let's+Talk!" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajyadav/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajyadav052005@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajydev)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:6d28d9&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Star%20a%20repo%20if%20you%20liked%20it!&descAlignY=85&descColor=a78bfa&descSize=14" width="100%"/>
 
 </div>
