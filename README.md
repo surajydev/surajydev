@@ -4,13 +4,15 @@
 <!--              ANIMATED HEADER               -->
 <!-- ╚══════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1040,60:302b63,100:6d28d9&height=280&section=header&text=SURAJ%20YADAV&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=42&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1040,60:302b63,100:6d28d9&height=220&section=header&text=SURAJ%20YADAV&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <!-- BIG gap between name and profession -->
 <br/><br/>
 
-<!-- Glowing profession line -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;⚙️+Microservices+Architect;🎨+UI%2FUX+Designer;☁️+Cloud+%26+DevOps+Explorer;✨+Spring+Boot+%2B+React+Wizard" alt="profession" />
+<!-- Static bold profession titles — always visible, not rotating -->
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Full+Stack+Developer+%7C+UI%2FUX+Engineer" alt="profession" />
+</h2>
 
 <br/><br/>
 
