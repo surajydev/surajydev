@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="55%" stop-color="#0f0c29"/>
+      <stop offset="100%" stop-color="#04030a"/>
+    </radialGradient>
+    <radialGradient id="sun" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#fff7aa"/>
+      <stop offset="45%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p1" cx="38%" cy="32%" r="62%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </radialGradient>
+    <radialGradient id="p2" cx="38%" cy="32%" r="62%">
+      <stop offset="0%" stop-color="#fca5a5"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </radialGradient>
+    <radialGradient id="p3" cx="38%" cy="32%" r="62%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </radialGradient>
+    <radialGradient id="p4" cx="38%" cy="32%" r="62%">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </radialGradient>
+    <linearGradient id="ng" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="48%" stop-color="#e9d5ff"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="tg" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sf" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg">
+      <feGaussianBlur stdDeviation="1.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c"><rect width="900" height="240"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="240" fill="url(#bg)"/>
+
+  <!-- Static stars -->
+  <g clip-path="url(#c)">
+    <circle cx="42" cy="16" r="1" fill="white" opacity=".8"/>
+    <circle cx="118" cy="52" r=".8" fill="white" opacity=".6"/>
+    <circle cx="198" cy="11" r="1.1" fill="white" opacity=".9"/>
+    <circle cx="308" cy="35" r=".7" fill="white" opacity=".5"/>
+    <circle cx="418" cy="7" r="1" fill="white" opacity=".8"/>
+    <circle cx="528" cy="43" r=".9" fill="white" opacity=".7"/>
+    <circle cx="638" cy="19" r="1.1" fill="white" opacity=".9"/>
+    <circle cx="748" cy="58" r=".8" fill="white" opacity=".6"/>
+    <circle cx="838" cy="14" r="1" fill="white" opacity=".8"/>
+    <circle cx="878" cy="68" r=".7" fill="white" opacity=".5"/>
+    <circle cx="68" cy="88" r=".9" fill="white" opacity=".7"/>
+    <circle cx="158" cy="128" r="1" fill="white" opacity=".6"/>
+    <circle cx="28" cy="158" r=".8" fill="white" opacity=".8"/>
+    <circle cx="88" cy="198" r="1.1" fill="white" opacity=".5"/>
+    <circle cx="178" cy="183" r=".7" fill="white" opacity=".7"/>
+    <circle cx="258" cy="73" r="1" fill="white" opacity=".9"/>
+    <circle cx="353" cy="108" r=".8" fill="white" opacity=".6"/>
+    <circle cx="468" cy="188" r="1.1" fill="white" opacity=".8"/>
+    <circle cx="558" cy="168" r=".9" fill="white" opacity=".7"/>
+    <circle cx="678" cy="138" r="1" fill="white" opacity=".9"/>
+    <circle cx="788" cy="98" r=".8" fill="white" opacity=".6"/>
+    <circle cx="858" cy="153" r="1.1" fill="white" opacity=".8"/>
+    <circle cx="818" cy="198" r=".7" fill="white" opacity=".5"/>
+    <circle cx="718" cy="193" r="1" fill="white" opacity=".7"/>
+    <circle cx="598" cy="208" r=".9" fill="white" opacity=".6"/>
+    <circle cx="488" cy="98" r=".8" fill="white" opacity=".8"/>
+    <circle cx="378" cy="163" r="1" fill="white" opacity=".7"/>
+    <circle cx="278" cy="198" r=".9" fill="white" opacity=".5"/>
+    <circle cx="138" cy="208" r="1.1" fill="white" opacity=".8"/>
+    <!-- Twinkling stars -->
+    <circle cx="98" cy="33" r="1.5" fill="#c4b5fd" filter="url(#sg)">
+      <animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="338" cy="21" r="1.3" fill="#93c5fd" filter="url(#sg)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="578" cy="28" r="1.5" fill="white" filter="url(#sg)">
+      <animate attributeName="opacity" values="1;.1;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="758" cy="33" r="1.2" fill="#fde68a" filter="url(#sg)">
+      <animate attributeName="opacity" values=".4;1;.4" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="868" cy="108" r="1.4" fill="#c4b5fd" filter="url(#sg)">
+      <animate attributeName="opacity" values="1;.3;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="48" cy="148" r="1.3" fill="white" filter="url(#sg)">
+      <animate attributeName="opacity" values=".5;1;.5" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="438" cy="203" r="1.5" fill="#93c5fd" filter="url(#sg)">
+      <animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="80" r="1.3" fill="#fde68a" filter="url(#sg)">
+      <animate attributeName="opacity" values=".6;1;.6" dur="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="50" r="1.1" fill="#c4b5fd" filter="url(#sg)">
+      <animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Solar system -->
+  <g clip-path="url(#c)">
+    <!-- Sun -->
+    <circle cx="108" cy="120" r="26" fill="url(#sun)" filter="url(#sf)"/>
+    <circle cx="108" cy="120" r="17" fill="#ffcc00"/>
+    <circle cx="108" cy="120" r="24" fill="none" stroke="#ffdd44" stroke-width="2" opacity=".5">
+      <animate attributeName="r" values="24;36;24" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".5;0;.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="108" cy="120" r="18" fill="none" stroke="#ffaa00" stroke-width="1" opacity=".4">
+      <animate attributeName="r" values="18;28;18" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".4;0;.4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Orbit 1 Mercury r=40 -->
+    <ellipse cx="108" cy="120" rx="40" ry="11" fill="none" stroke="white" stroke-width=".4" opacity=".18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="4s" repeatCount="indefinite"/>
+      <circle cx="148" cy="120" r="4" fill="url(#p2)"/>
+    </g>
+
+    <!-- Orbit 2 Venus r=62 -->
+    <ellipse cx="108" cy="120" rx="62" ry="17" fill="none" stroke="white" stroke-width=".4" opacity=".18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="7s" repeatCount="indefinite"/>
+      <circle cx="170" cy="120" r="6" fill="url(#p3)"/>
+    </g>
+
+    <!-- Orbit 3 Earth r=85 -->
+    <ellipse cx="108" cy="120" rx="85" ry="23" fill="none" stroke="white" stroke-width=".4" opacity=".18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="13s" repeatCount="indefinite"/>
+      <circle cx="193" cy="120" r="7" fill="url(#p1)"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 193 120" to="360 193 120" dur="2s" repeatCount="indefinite"/>
+        <circle cx="193" cy="109" r="2.5" fill="#d1d5db"/>
+      </g>
+    </g>
+
+    <!-- Orbit 4 Mars r=108 -->
+    <ellipse cx="108" cy="120" rx="108" ry="29" fill="none" stroke="white" stroke-width=".4" opacity=".15"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="20s" repeatCount="indefinite"/>
+      <circle cx="216" cy="120" r="5" fill="url(#p2)"/>
+    </g>
+
+    <!-- Orbit 5 Jupiter r=138 -->
+    <ellipse cx="108" cy="120" rx="138" ry="38" fill="none" stroke="white" stroke-width=".4" opacity=".13"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="32s" repeatCount="indefinite"/>
+      <circle cx="246" cy="120" r="12" fill="url(#p3)"/>
+      <ellipse cx="246" cy="120" rx="17" ry="3.5" fill="none" stroke="#fde68a" stroke-width="1.2" opacity=".5"/>
+    </g>
+
+    <!-- Orbit 6 Saturn r=168 -->
+    <ellipse cx="108" cy="120" rx="168" ry="47" fill="none" stroke="white" stroke-width=".4" opacity=".12"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 108 120" to="360 108 120" dur="55s" repeatCount="indefinite"/>
+      <ellipse cx="276" cy="120" rx="20" ry="4.5" fill="none" stroke="#c4b5fd" stroke-width="2.8" opacity=".7"/>
+      <circle cx="276" cy="120" r="10" fill="url(#p4)"/>
+    </g>
+  </g>
+
+  <!-- Name -->
+  <text x="580" y="108" font-family="Arial Black,sans-serif" font-size="66" font-weight="900"
+        text-anchor="middle" fill="#a78bfa" opacity=".12" filter="url(#tg)">SURAJ YADAV</text>
+  <text x="580" y="108" font-family="Arial Black,sans-serif" font-size="66" font-weight="900"
+        text-anchor="middle" fill="url(#ng)" filter="url(#tg)" opacity="0">
+    SURAJ YADAV
+    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+  </text>
+
+  <!-- Profession -->
+  <text x="580" y="150" font-family="Courier New,monospace" font-size="17" font-weight="700"
+        text-anchor="middle" fill="#64ffda" letter-spacing="2.5" opacity="0">
+    Full Stack Developer  |  UI/UX Engineer
+    <animate attributeName="opacity" values="0;0;1" dur="2.6s" fill="freeze"/>
+  </text>
+
+  <!-- Underline grows outward -->
+  <line x1="580" y1="162" x2="580" y2="162" stroke="#7c3aed" stroke-width="1.8" opacity=".9">
+    <animate attributeName="x1" values="580;390" dur=".9s" begin="2.2s" fill="freeze"/>
+    <animate attributeName="x2" values="580;770" dur=".9s" begin="2.2s" fill="freeze"/>
+  </line>
+</svg>
